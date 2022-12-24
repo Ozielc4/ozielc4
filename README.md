@@ -1,4 +1,4 @@
-## Olá, Bem Vindo ao meu GitHub, Eu sou o Oziel Silva!
+## Olá, Bem Vindo ao meu GitHub, Eu sou Oziel Silva!
 
 <div align="center">
   <a href="https://github.com/ozielc4">
